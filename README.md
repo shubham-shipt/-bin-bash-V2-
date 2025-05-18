@@ -56,7 +56,7 @@ Some scripts require `sudo` if they touch network, system, or firewall configura
 
 | Script                          | Preview                                       |
 | ------------------------------- | --------------------------------------------- |
-| `parallel_process_manager.sh`   | ![Parallel Example](screenshots/parallel.png) |
+| `parallel_process_manager.sh`   | ![Parallel Example](Screenshort/wifi Scanner.png) |
 | `bash_ssh_guardian.sh`          | ![SSH Guardian](screenshots/ssh_guard.png)    |
 | `bash_based_dns_exfiltrator.sh` | ![DNS Exfil](screenshots/dns_exfil.png)       |
 | `bash_payload_generator.sh`     | ![Payloads](screenshots/payloads.png)         |
