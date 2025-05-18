@@ -50,18 +50,20 @@ Some scripts require `sudo` if they touch network, system, or firewall configura
 
 ---
 
-## 📸 Screenshots
+<h3>🔍 WiFi Scanner</h3>
+<img src="Screenshort/wifi Scanner.png" alt="WiFi Scanner Output" width="600"/>
 
-> You can add screenshots below to showcase UI, outputs, or scan results.
+<h3>🧠 Monitor Networks</h3>
+<img src="Screenshort/Monitar Networks.png" alt="Monitor Networks Output" width="600"/>
 
-| Script                          | Preview                                       |
-| ------------------------------- | --------------------------------------------- |
-| `parallel_process_manager.sh`   | ![Parallel Example](Screenshort/wifi Scanner.png) |
-| `bash_ssh_guardian.sh`          | ![SSH Guardian](screenshots/ssh_guard.png)    |
-| `bash_based_dns_exfiltrator.sh` | ![DNS Exfil](screenshots/dns_exfil.png)       |
-| `bash_payload_generator.sh`     | ![Payloads](screenshots/payloads.png)         |
+<h3>📊 Checker</h3>
+<img src="Screenshort/Checker.png" alt="Checker Tool Output" width="600"/>
 
-> 📁 Save your screenshots in `/screenshots/` folder in the repo.
+<h3>👀 Watcher</h3>
+<img src="Screenshort/Watcher.png" alt="Watcher Tool Output" width="600"/>
+
+
+
 
 ---
 
